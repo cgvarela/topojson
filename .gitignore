@@ -1,3 +1,5 @@
+*.sublime-workspace
 .DS_Store
-topojson.min.js
+dist/
 node_modules
+npm-debug.log
